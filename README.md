@@ -66,13 +66,6 @@
 ![](docs/screenshot-ru-uk.png)
 
 
-## Інші розкладки
-
-- Англійську типографічну розкладку можна взяти у [Іллі Бірмана](https://ilyabirman.ru/projects/typography-layout/).
-
-- Англійська та російська [розкладки Іллі Бірмана для Ubuntu](https://github.com/neochief/birman-typography-layouts-for-ubuntu).
-
-
 ## Питання
 
 - Більшість питань по розкладкам можна дізнатися [тут](https://ilyabirman.ru/projects/typography-layout/faq/).
